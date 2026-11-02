@@ -189,6 +189,71 @@
      "chg": -5.48
     }
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "rzrq": {
+    "value": 23431.3,
+    "pct": 93.3,
+    "hit": false
+   },
+   "hitech": [
+    {
+     "name": "CS人工智能",
+     "cur": 35.05,
+     "pct": 7.8
+    },
+    {
+     "name": "中证芯片",
+     "cur": 49.53,
+     "pct": 42.6
+    },
+    {
+     "name": "国证芯片",
+     "cur": 51.66,
+     "pct": 16.0
+    },
+    {
+     "name": "5G通信",
+     "cur": 25.9,
+     "pct": 11.5
+    },
+    {
+     "name": "半导体材料设备",
+     "cur": 71.76,
+     "pct": 51.4
+    },
+    {
+     "name": "科创50",
+     "cur": 86.17,
+     "pct": 62.6
+    }
+   ],
+   "hitech_hit": false,
+   "div_pct": 89.9,
+   "volume": 0.0,
+   "market": [
+    {
+     "name": "上证指数",
+     "close": null,
+     "chg": 0.89
+    },
+    {
+     "name": "沪深300",
+     "close": null,
+     "chg": 0.74
+    },
+    {
+     "name": "创业板指",
+     "close": null,
+     "chg": 2.34
+    },
+    {
+     "name": "科创50",
+     "close": null,
+     "chg": 3.28
+    }
+   ]
   }
  ]
 }
