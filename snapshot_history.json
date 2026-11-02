@@ -236,22 +236,22 @@
     {
      "name": "上证指数",
      "close": null,
-     "chg": 0.92
+     "chg": 0.9
     },
     {
      "name": "沪深300",
      "close": null,
-     "chg": 0.71
+     "chg": 0.69
     },
     {
      "name": "创业板指",
      "close": null,
-     "chg": 2.29
+     "chg": 2.09
     },
     {
      "name": "科创50",
      "close": null,
-     "chg": 3.2
+     "chg": 2.93
     }
    ]
   }
