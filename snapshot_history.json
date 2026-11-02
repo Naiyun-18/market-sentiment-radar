@@ -235,22 +235,22 @@
    "market": [
     {
      "name": "上证指数",
-     "close": null,
+     "close": 3638.03,
      "chg": 1.08
     },
     {
      "name": "沪深300",
-     "close": null,
+     "close": 4016.92,
      "chg": 0.79
     },
     {
      "name": "创业板指",
-     "close": null,
+     "close": 2458.7,
      "chg": 1.87
     },
     {
      "name": "科创50",
-     "close": null,
+     "close": 1196.94,
      "chg": 3.11
     }
    ]
